@@ -256,6 +256,15 @@
     <ClCompile Include="Source Code\M_Import.cpp">
       <Filter>Source Code\Modules\Resources</Filter>
     </ClCompile>
+    <ClCompile Include="Source Code\M_ParticlesManager.cpp">
+      <Filter>Source Code\Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Code\C_Emitter.cpp">
+      <Filter>Source Code\GameObjects\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Code\M_Particles.cpp">
+      <Filter>Source Code\Modules\Resources</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Source\External Libraries\MathGeoLib\src\MathBuildConfig.h">
@@ -628,6 +637,15 @@
       <Filter>Source Code\Modules</Filter>
     </ClInclude>
     <ClInclude Include="Source Code\M_Import.h">
+      <Filter>Source Code\Modules\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="Source Code\M_ParticlesManager.h">
+      <Filter>Source Code\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="Source Code\C_Emitter.h">
+      <Filter>Source Code\GameObjects\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Source Code\M_Particles.h">
       <Filter>Source Code\Modules\Resources</Filter>
     </ClInclude>
   </ItemGroup>
